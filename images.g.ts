@@ -55,6 +55,23 @@ b 1 1 1 1 1 1 1 1 1 1 1 1 c b
 b 1 1 1 1 1 1 1 1 1 1 1 1 c b 
 b b b b b b b b b b b b b b b 
 `;
+            case "image4":return img`
+b b b b b b b b b b b b b b b 
+b c c c c c c c c c c c c c b 
+b 1 1 1 1 1 1 1 1 1 1 1 1 c b 
+b 1 1 1 1 1 1 1 1 1 1 1 1 c b 
+b 1 1 1 1 1 1 1 1 1 1 1 1 c b 
+2 1 1 1 1 1 1 1 1 1 1 1 1 c 8 
+2 1 1 1 1 1 1 1 1 1 1 1 1 c 8 
+2 1 1 1 1 1 1 1 1 1 1 1 1 c 8 
+2 1 1 1 1 1 1 1 1 1 1 1 1 c 8 
+2 1 1 1 1 1 1 1 1 1 1 1 1 c 8 
+b 1 1 1 1 1 1 1 1 1 1 1 1 c b 
+b 1 1 1 1 1 1 1 1 1 1 1 1 c b 
+b 1 1 1 1 1 1 1 1 1 1 1 1 c b 
+b 1 1 1 1 1 1 1 1 1 1 1 1 c b 
+b b b b b b b b b b b b b b b 
+`;
         }
         return null;
     })
